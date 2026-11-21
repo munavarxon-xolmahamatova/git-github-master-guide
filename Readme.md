@@ -4,7 +4,7 @@ Bu loyiha Git, GitHub va Terminal
 buyruqlarini o‘rganish uchun yaratildi.
 
 ## Muallif
-Ism Familiya
+Munavvarxon Xolmahamatova
 
 ## Loyiha bo‘limlari
 - Git Guide
