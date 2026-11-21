@@ -16,3 +16,23 @@ Yangi Git repository yaratadi.
 
 ## 6. git status
 Repository holatini ko‘rsatadi.
+## 7. git add
+Fayllarni commit uchun tayyorlaydi.
+
+## 8. git commit
+O‘zgarishlarni saqlaydi.
+
+## 9. git log
+Commitlar tarixini ko‘rsatadi.
+
+## 10. git branch
+Branchlar ro‘yxatini ko‘rsatadi.
+
+## 11. git switch
+Boshqa branchga o‘tadi.
+
+## 12. git merge
+Branchlarni birlashtiradi.
+
+## 13. git branch -d
+Keraksiz branchni o‘chiradi.
