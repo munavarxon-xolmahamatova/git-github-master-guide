@@ -44,3 +44,4 @@ Git holatini ko‘rsatadi.
 
 ## 15. git log
 Commitlar tarixini ko‘rsatadi.
+## Terminal buyruqlari
